@@ -1,0 +1,197 @@
+@media screen and (max-width:1240px){
+  .fo-footer .head button{
+    margin-top: 15px;
+  }
+}
+@media screen and (max-width: 1097px) {
+  nav.header ul li {
+    margin-right: 40px;
+  }
+}
+@media screen and (max-width:1026px){
+  div.About div.images img{
+    height: 80%;
+    max-width: 48%;
+  }
+  div.About div.content-us{
+      width: 37vw;
+  }
+  div.About div.images img.buttom{
+    margin: 25px 20px 0 20px;
+  }
+  .foot > div{
+    margin-top: 20px;
+  }
+}
+  @media screen and (max-width: 969px) {
+    .shop-mini {
+      display: inline-block !important;
+    }
+    .shop-large {
+      display: none !important;
+    }
+    .heart-large {
+      display: none !important;
+    }
+    .heart-mini {
+      display: inline-block !important;
+    }
+    div.frame{
+      width: 90%;
+    }
+  }
+  @media screen and (max-width:954px){
+    div.About div.images img{
+      height: 70%;
+      max-width: 44%;
+    }
+  }
+  @media screen and (max-width:870px){
+    div.About div.images img{
+      height: 65%;
+    }
+    div.About div.content-us{
+      width: 70%;
+  }
+  div.testimonial-about{
+    flex-direction: column-reverse;
+    align-items: start;
+  } 
+  div.testimonial-about .dec-left{
+    margin: 30px 0 0 0;
+    width: 100%;
+  }
+  }
+  @media screen and (max-width: 814px) {
+    nav.header {
+      display: none;
+    }
+    ul.row-toggle {
+      display: flex;
+    }
+    div.About div.content-us > *{
+      margin-top: 5px;
+    }
+    div.About div.content-us{
+      width: 87%;
+    }
+}
+@media screen and (max-width:780px){
+  div.frame div.chefes div.chef{
+    width: 50%;
+  }
+  div.frame div.chefes{
+    justify-content: center;
+  }
+  div.frame .head{
+    margin-bottom: 90px;
+  }
+  div.frame div.chefes div.chef.chef-end{
+    margin-top: 80px;
+  }
+}
+@media screen and (max-width:747px){
+  .fo-footer .head{
+    flex-direction: column;
+  }
+  .fo-footer .head h1{
+    font-size: 35px;
+  }
+}
+@media screen and (max-width:734px){
+  div.testimonial div.slider{
+    max-width: 80%;
+  }
+}
+@media screen and (max-width:678px){
+  footer .fo-footer{
+    padding: 60px 50px;
+  }
+}
+@media screen and (max-width: 608px) {
+  div.About{
+    flex-direction: column;
+  }
+  div.About div.content-us > *{
+    margin-top: 15px;
+  }
+  div.description {
+    flex-direction: column;
+  }
+  div.description div.text-desc {
+    margin: unset;
+  }
+  div.description .number-two{
+    margin: 50px 0 !important;
+  }
+}
+@media screen and (max-width: 608px){
+  .fo-footer .head input{
+    margin-top: 20px;
+  }
+  .fo-footer .head h1{
+    font-size: 30px;
+  }
+}
+@media screen and (max-width:550px){
+  .fo-footer .head input{
+    margin-top: 20px;
+  }
+  .fo-footer .head h1{
+    font-size: 30px;
+  }
+}
+@media screen and (max-width: 531px){
+  div.testimonial-about .dec-right{
+    width: 100%;
+  }
+  div.testimonial-about .dec-right img{
+    width: 100%;
+  }
+  div.frame div.chefes{
+    flex-direction: column;
+  }
+  div.frame div.chefes div.chef{
+    width: 100%;
+  }
+  div.frame div.chefes div.chef.chef-end{
+    margin-top: unset;
+  }
+  div.frame div.chefes div.chef.chef-center{
+    margin: 100px 0;
+  }
+}
+@media screen and (max-width:493px) {
+  div.About div.content-us h1{
+    font-size: 20px;
+  }
+  div.frame .head h1{
+    font-size: 24px;
+  }
+  div.testimonial div.title h1{
+    font-size: 20px;
+  }
+}
+@media screen and (max-width:493px) {
+  footer .p-b{
+    margin: 20px 15px;
+  }
+}
+@media screen and (max-width:370px){
+  div.testimonial-about .dec-left h1{
+    font-size: 24px;
+  }
+}
+@media screen and (max-width:390px){
+  div.testimonial {
+    min-width: 90%;
+  }
+}
+@media screen and (max-width:280px){
+  .fo-footer .head input{
+    padding: 20px;
+  }
+  .fo-footer .head button{
+    padding: 20px 35px;
+  }
+}

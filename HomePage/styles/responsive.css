@@ -1,0 +1,245 @@
+@media screen and (max-width:1240px){
+  .fo-footer .head button{
+    margin-top: 15px;
+  }
+}
+@media screen and (max-width: 1097px) {
+  nav.header ul li {
+    margin-right: 40px;
+  }
+}
+@media screen and (max-width: 1051px) {
+  div.row-header {
+    height: 80%;
+    padding: 0 20px 0 60px;
+  }
+  div.svg-cr{
+    height: 130vh;
+  }
+
+}
+@media screen and (max-width:1026px){
+  div.About div.images img{
+    height: 80%;
+    max-width: 48%;
+  }
+  div.About div.content-us{
+      width: 37vw;
+  }
+  div.About div.images img.buttom{
+    margin: 25px 20px 0 20px;
+}
+.foot > div{
+  margin-top: 20px;
+}
+}
+@media screen and (max-width: 969px) {
+  .shop-mini {
+    display: inline-block !important;
+  }
+  .shop-large {
+    display: none !important;
+  }
+  .heart-large {
+    display: none !important;
+  }
+  .heart-mini {
+    display: inline-block !important;
+  }
+}
+@media screen and (max-width:954px){
+  div.About div.images img{
+    height: 70%;
+    max-width: 44%;
+  }
+}
+@media screen and (max-width:870px){
+  .delicious-menu div.cards .card{
+    min-width: 45% ;
+  }
+  div.About div.images img{
+    height: 65%;
+  }
+  div.About div.content-us{
+    width: 70%;
+}
+}
+@media screen and (max-width: 814px) {
+  nav.header {
+    display: none;
+  }
+  ul.row-toggle {
+    display: flex;
+  }
+  .row-header {
+    top: 30;
+  }
+  div.About div.content-us > *{
+    margin-top: 5px;
+  }
+  div.About div.content-us{
+    width: 87%;
+  }
+}
+@media screen and (max-width:747px){
+  .fo-footer .head{
+    flex-direction: column;
+  }
+  .fo-footer .head h1{
+    font-size: 35px;
+  }
+}
+@media screen and (max-width:734px){
+  div.testimonial div.slider{
+    max-width: 80%;
+  }
+  div.news .cards .card{
+    width: auto;
+    margin-top: 30px;
+  }
+  div.news .cards{
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+@media screen and (max-width: 678px) {
+  div.content h1 {
+    font-size: 50px;
+  }
+  footer .fo-footer{
+    padding: 60px 50px;
+  }
+}
+@media screen and (max-width: 608px) {
+  div.row-header {
+    flex-direction: column-reverse;
+    top: 350;
+  }
+  div.row-header img {
+    width: 70%;
+  }
+  div.svg-img {
+    width: 100%;
+  }
+  svg.circle {
+    width: 112%;
+    height: 107%;
+  }
+  div.row-header div.content {
+    max-width: 100%;
+    top: 50;
+  }
+  div.svg-cr{
+    height: 145vh;
+  }
+  div.row-header{
+    height: 40%;
+  }
+  .delicious-menu div.cards .card{
+    min-width: 68% ;
+  }
+  .delicious-menu{
+    margin-top: 115px;
+  }
+  div.About{
+    flex-direction: column;
+  }
+  div.About div.content-us > *{
+    margin-top: 15px;
+  }
+}
+@media screen and (max-width:592px){
+  #btn-see{
+    margin-top: 30px;
+  }
+}
+@media screen and (max-width:550px){
+  div.row-header img{
+    width: 87%;
+  }
+  .fo-footer .head input{
+    margin-top: 20px;
+  }
+  .fo-footer .head h1{
+    font-size: 30px;
+  }
+}
+@media screen and (max-width:493px) {
+  .delicious-menu .delicious-card h1{
+    font-size: 20px;
+  }
+  div.About div.content-us h1{
+    font-size: 20px;
+  }
+  div.papular div.title h1{
+    font-size: 20px;
+  }
+  div.testimonial div.title h1{
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 430px){
+    div.row-header{
+        padding: 0 20px 0 40px;
+    }
+    div.content h1 {
+        font-size: 33px;
+      }
+      div.service div.images img{
+        max-width: 130px !important;
+      }
+}
+@media screen and (max-width: 404px){
+  div.hero{
+    align-items: start;
+    height: 50px;
+  }
+}
+@media screen and (max-width: 400px){
+    .btns {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      div.content .right{
+        margin-left: 0;
+        margin-top: 20px;
+        width: 100%;
+      }
+      div.content .buttons{
+        width: 100%;
+      }
+      div.row-header img.banner-header{
+        margin-bottom: 100px;
+      }
+      div.svg-cr{
+        height: 153vh;
+      }
+      footer .p-b{
+        margin: 20px 15px;
+      }
+}
+@media  screen and (max-width:390px) {
+  .delicious-menu div.cards .card{
+    min-width: 100%;
+  }
+  div.testimonial {
+    min-width: 90%;
+  }
+  div.news .cards .card img{
+    max-width: 95%;
+  }
+}
+@media screen and (max-width:280px){
+  .fo-footer .head input{
+    padding: 20px;
+  }
+  .fo-footer .head button{
+    padding: 20px 35px;
+  }
+}
+@media screen and (max-width:255px){
+  .delicious-menu{
+    margin-top: 170px;
+  }
+}
